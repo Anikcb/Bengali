@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/history"
+    android:orientation="vertical"
+    tools:context=".liberation_gallery">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="গ্যালারি"
+        android:fontFamily="@font/fazlay"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:padding="10dp"/>
+
+    <com.denzcoskun.imageslider.ImageSlider
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        app:placeholder="@drawable/no_internet"
+        app:error_image="@drawable/no_internet"
+        app:auto_cycle="true"
+        app:delay="0"
+        android:id="@+id/slider1"
+        app:period="1500"
+        app:corner_radius="5"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ছবি মাত্রই ইতিহাসের, সময়রেখার অংশ। ছবি অনেক সময় হাজার শব্দের বিকল্পের কাজ করে। বাংলাদেশের মুক্তিযুদ্ধের ছবিগুলো সেকারনে খুব গুরুত্বপূর্ণ। এই ছবিগুলো বাংলাদেশের মুক্তিযুদ্ধের ইতিহাসের সাক্ষ্য।"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:fontFamily="@font/rajon" />
+</LinearLayout>

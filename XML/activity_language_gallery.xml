@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/history"
+    android:orientation="vertical"
+    tools:context=".language_gallery">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="গ্যালারি"
+        android:fontFamily="@font/fazlay"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:padding="10dp"/>
+
+    <com.denzcoskun.imageslider.ImageSlider
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        app:placeholder="@drawable/no_internet"
+        app:error_image="@drawable/no_internet"
+        app:auto_cycle="true"
+        app:delay="0"
+        android:id="@+id/slider3"
+        app:period="1500"
+        app:corner_radius="5"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="বাংলা ভাষা আন্দোলন ছিল ১৯৪৭ থেকে ১৯৫৬ পর্যন্ত তৎকালীন পূর্ব বাংলায় সংঘটিত একটি সাংস্কৃতিক ও রাজনৈতিক আন্দোলন। মৌলিক অধিকার রক্ষাকল্পে বাংলা ভাষাকে ঘিরে সৃষ্ট এ আন্দোলনের মাধ্যমে তদানীন্তন পাকিস্তান অধিরাজ্যের অন্যতম রাষ্ট্রভাষা হিসেবে প্রতিষ্ঠার লক্ষ্যে গণদাবির বহিঃপ্রকাশ ঘটে।"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:fontFamily="@font/rajon" />
+</LinearLayout>

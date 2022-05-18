@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/history"
+    android:layout_height="match_parent"
+    tools:context=".rabindranath">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আবদুস সালাম"
+                android:textSize="25sp"
+                android:fontFamily="@font/fazlay"
+                android:textColor="@color/white"
+                android:textAllCaps="true"
+                android:padding="20sp"/>
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    android:padding="10dp"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/salam"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/rajon"
+                        android:text="ভাষা শহীদ আবদুস সালাম ফেনী জেলার দাগনভুঁইঞা উপজেলার লক্ষণপুর গ্রামে ১৯২৫ সালে  জন্ম গ্রহণ করেন। লক্ষণপুরের বর্তমান নাম সালাম নগর। তাঁর পিতার নাম মোহাম্মদ ফাজিল মিয়া এবং মাতার নাম দৌলতের নেছা। তিনি স্থানীয় মাতুভূঁইঞা করিমুল্লা জুনিয়র হাই স্কুলে নবম শ্রেণী পর্যন্ত অধ্যয়ন করেন। অতঃপর চাকরির সন্ধানে ঢাকায় আসেন। পূর্ব পাকিস্তান সরকারের ডিরেক্টরেট অব ইন্ডাস্ট্রিজ বিভাগে পিয়ন হিসাবে চাকরি পান। ঢাকায় ৩৬বি, নীলক্ষেত ব্যারাকে তিনি বসবাস করতেন।  ৪ ভাই ও ৩ বোনের মধ্যে আবদুস সালাম ছিলেন সবার বড়।মাতৃভাষা বাংলাকে রাষ্ট্রভাষা করার দাবীতে বাহান্নের ভাষা আন্দোলনে টগবগে তরুণ সালামের হৃদয়েও আন্দোলনের ডাকে ছুঁয়ে যায়। ২১শে ফেব্রয়ারী (১৯৫২) এবং ৮ই ফাল্গুন ১৩৫৯ বাংলা সাল, ঢাকা মেডিকেল কলেজের সামনের রাস্তায় সরকার কর্তৃক জারিকৃত ১৪৪ ধারা অগ্রাহ্য করে ছাত্র-জনতা বাংলা ভাষার দাবীতে যে মিছিল করে আবদুস সালাম সে বিক্ষোভ মিছিলে স্বপ্রণোদিত ভাবে অংশ গ্রহণ করেন। আন্দোলনরত ছাত্র-জনতার সঙ্গে সালামও ১৪৪ ধারা ভঙ্গ করে রাজপথে নেমে পড়লে মিছিলে পুলিশ নির্বাচারে গুলি চালায়। বিকেল সাড়ে তিনটায় পুলিশের  বেপরোয়া গোলাগুলিতে সালাম, বরকত, রফিক, জব্বারসহ গুলিবিদ্ধ হন অনেকে। গুরতর আহত অবস্থায় আবদুস সালামকে ঢাকা মেডিকেল কলেজ হাসপাতালে ভর্তি করা হয়। সালামের ম্যাচের কাজের বুয়ার ছেলে তেজগাঁ নাবিস্কুতে কর্মরত সালামের ভাতিজা মকবুল আহম্মদ ধনা মিয়াকে  জানান তার চাচা সালাম গুলিবিদ্ধ হয়েছেন। মকবুল ছুটে যান সালামের আরেক জেঠাতো ভাই হাবিব উল্যাহর কাছে। তারা দু'জনে মিলে দুপুর ১২টার দিকে ঢাকা মেডিকেল কলেজ হাসপাতালে এসে দেখেন, পেটে গুলিবিদ্ধ হয়ে সালাম সংজ্ঞাহীন অবস্থায় মেডিক্যালের বারান্দায় পড়ে আছেন। তারা ২১ ফেব্রুয়ারি সন্ধ্যায় টেলিগ্রামে সালামের বাবা ফাজিল মিয়াকে সালামের গুলিবিদ্ধ হওয়ার ঘটনাটি জানান। ফাজিল মিয়া তার অন্য এক ছেলেকে নিয়ে ঢাকা মেডিক্যালে ছুটে আসেন। পর দিন সকাল ৯টার দিকে বেশ কিছু ছাত্র সালামের যথাযত চিকিৎসা না করার অভিযোগে হাসপাতালে বেশ কিছুক্ষণ হট্টগোল করেন। মকবুল ও হাবিব উল্যাহ হাসপাতালে আসা যাওয়ার মধ্যে থাকলেও সংজ্ঞাহীন সালামের বিছানার পাশ থেকে তার বাবা কোথাও আর যায়নি। বাবার উপস্থিতিতে হাসপাতালেই ২৫ ফেব্রুয়ারী বেলা সাড়ে ১১টায় আবদুস সালাম মৃত্যুর কোলে ঢলে পড়েন। ২৬ ফেব্রুয়ারি বিকাল ৪টার দিকে সালামের লাশ ঢাকাস্থ  আজিমপুর গোরস্থানে নেওয়া হয়। সেখানে সালামের বাবা ফাজিল মিয়া, ভাতিজা মকবুল, জেঠাতো ভাই হাবিব উল্লাহসহ শত শত ছাত্র-জনতার উপস্থিতিতে সালামের জানাজা শেষে দাফন করা হয়। ২০০০ সালে বাংলাদেশ সরকার ভাষা শহীদ আবদুস সালামকে মরণোত্তর একুশে পদক প্রদান করেন। একুশে পদক প্রদানকালে গেজেটে তার মৃত্যুর তারিখ ২৫ ফেব্রুয়ারির স্থলে ৭ এপ্রিল উল্লেখ করা হয়। সেই থেকে সালামের মৃত্যুর তারিখ নিয়ে বিভ্রান্তির সৃষ্টি হয়। ১৯৯৯ সাল পযন্ত ভাষা শহীদ আবদুস সালামের কোন ছবি কোথাও সংরক্ষিত ছিলনা। তার কারন ৬০ এর দশকে তত্কালীন স্থানীয় সংসদ জনাব খাজা আহমদ শহীদ আবদুস সালামের পিতা ফাজিল মিয়াকে দুই হাজার টাকা দিয়ে আব্দুস সালামের গুলিবিদ্ধ রক্তাক্ত শার্টটি ও তাঁর দুটি আলোকচিত্র জাতীয় জাদুঘরে দেবেন বলে নিয়ে আসেন। কিন্তু তিনি ছবি এবং আবদুস সালামের রক্তাক্ত শার্টটি কি করেছেন তার কোন হদিস পাওয়া যায়নি।"
+                        android:textColor="@color/black"
+                        android:padding="15sp"
+                        android:textSize="20sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

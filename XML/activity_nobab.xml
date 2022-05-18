@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/history"
+    android:layout_height="match_parent"
+    tools:context=".nobab">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="নবাব শাসনামল"
+            android:textSize="30sp"
+            android:fontFamily="@font/fazlay"
+            android:textColor="@color/white"
+            android:textAllCaps="true"
+            android:padding="10dp"/>
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/i1"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ইতিহাস"
+                    android:textSize="25sp"
+                    android:fontFamily="@font/lipishree_unicode"
+                    android:textColor="@color/white"
+                    android:padding="25dp"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="#00000000"
+                    android:text="এক্সপ্লোর >>"
+                    android:paddingLeft="40dp"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="10dp"
+                    android:fontFamily="@font/rajon"
+                    android:textSize="25sp"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/parchment"
+                android:paddingTop="10dp"
+                android:layout_marginTop="-15dp"
+                android:layout_marginRight="-1dp"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/i1"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="তথ্য"
+                    android:textSize="25sp"
+                    android:fontFamily="@font/lipishree_unicode"
+                    android:textColor="@color/white"
+                    android:padding="25dp"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="#00000000"
+                    android:text="এক্সপ্লোর >>"
+                    android:paddingLeft="40dp"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="10dp"
+                    android:fontFamily="@font/rajon"
+                    android:textSize="25sp"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/statistics"
+                android:paddingTop="10dp"
+                android:layout_marginTop="-10dp"
+                android:layout_marginRight="-1dp"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/i1"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="গ্যালারি"
+                    android:textSize="25sp"
+                    android:fontFamily="@font/lipishree_unicode"
+                    android:textColor="@color/white"
+                    android:padding="25dp"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="#00000000"
+                    android:text="এক্সপ্লোর >>"
+                    android:paddingLeft="40dp"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="10dp"
+                    android:fontFamily="@font/rajon"
+                    android:textSize="25sp"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/gal1"
+                android:paddingTop="10dp"
+                android:layout_marginTop="-15dp"
+                android:layout_marginRight="-1dp"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/i1"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ম্যাপ"
+                    android:textSize="25sp"
+                    android:fontFamily="@font/lipishree_unicode"
+                    android:textColor="@color/white"
+                    android:padding="25dp"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="#00000000"
+                    android:text="এক্সপ্লোর >>"
+                    android:paddingLeft="40dp"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="10dp"
+                    android:fontFamily="@font/rajon"
+                    android:textSize="25sp"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/map"
+                android:paddingTop="10dp"
+                android:layout_marginTop="-10dp"
+                android:layout_marginRight="-1dp"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/i1"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="হোটেল সমূহ"
+                    android:textSize="25sp"
+                    android:fontFamily="@font/lipishree_unicode"
+                    android:textColor="@color/white"
+                    android:padding="25dp"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="#00000000"
+                    android:text="এক্সপ্লোর >>"
+                    android:paddingLeft="40dp"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="10dp"
+                    android:fontFamily="@font/rajon"
+                    android:textSize="25sp"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/hotel"
+                android:paddingTop="10dp"
+                android:layout_marginTop="-13dp"
+                android:layout_marginRight="-1dp"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

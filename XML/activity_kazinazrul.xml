@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/history"
+    android:layout_height="match_parent"
+    tools:context=".kazinazrul">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আবুল বরকত"
+                android:textSize="25sp"
+                android:fontFamily="@font/fazlay"
+                android:textColor="@color/white"
+                android:textAllCaps="true"
+                android:padding="20sp"/>
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    android:padding="10dp"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/borkot"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/rajon"
+                        android:text="ছোট্টবেলা থেকে আজ পর্যন্ত তোমরা ভাষা আন্দোলন নিয়ে যা কিছু পড়েছো সব কিছুতেই রয়েছে শহীদ আবুল বরকতের নাম। কিন্তু কে এই বরকত তা কী তোমরা জানো?
+শহীদ আবুল বরকত ১৯২৭ সালে ১৬ জুন ভারতের পশ্চিম বঙ্গের মুর্শিদাবাদ জেলার কান্দি মহাকুমার ভরতপুর থানার বাবলা গ্রামে জন্মগ্রহণ করেন।
+পাশের গ্রাম তালিবপুর উচ্চ বিদ্যালয় থেকে তিনি প্রবেশিকা (এসএসসি) পাশ করেন। এরপর বহরমপুর কৃষ্ণনাথ কলেজ থেকে ১৯৪৭ সালে তিনি এইচএসসি পাশ করেন।
+১৯৪৮ সালে বরকত চলে আসেন পূর্ব বাংলায় অর্থাৎ বাংলাদেশে। ঢাকার পল্টনে বিষ্ণু প্রিয়া ভবনে তার মামা আব্দুল মালেকের বাড়িতে তিনি থাকতে শুরু করেন। উচ্চশিক্ষার জন্য ১৯৪৮ সালে বরকত ভর্তি হন ঢাকা বিশ্ববিদ্যালয়ে রাষ্ট্রবিজ্ঞান বিভাগে। তিনি অনেক মেধাবী একজন ছাত্র ছিলেন। ১৯৫১ সালে দ্বিতীয় শ্রেণীতে চতুর্থ স্থান লাভ করে তিনি অনার্স পাশ করেন। এরপর একই বিশ্ববিদ্যালয় থেকে এম.এ পাশ করার জন্য ভর্তি হন।
+১৯৫২ সাল ২১শে ফেব্র“য়ারি ঢাকা মেডিকেল কলেজ হোস্টেলের সামনে ‘রাষ্ট্রভাষা বাংলা চাই’ দাবিতে ছাত্রদের আন্দোল জোরালো হতে শুরু করে। ছাত্রদের দমন করতে বেলা ৩টার দিকে হোস্টেল চত্বরে ঢুকে নির্মমভাবে গুলি চালাতে থাকে পুলিশ। সে সময় আবুল বরকত এক বন্ধুর দিকে এগিয়ে আসছিলেন। হঠাৎ তিনি মাটিতে পড়ে যান। প্রথমে কেউ বুঝে উঠতে পারেনি, ততণে রক্তধারা ছুটে মাটি ভিজে যায়। তলপেটে গুলি লেগেছিল তার। পরনের ছিল নীল হাফ শার্ট, খাকি প্যান্ট ও কাবুলী স্যান্ডেল। দু`তিন জন ছুটে এসে বরকতকে কাঁধে তুলে হাসপাতালের জরুরি বিভাগে নিয়ে গেলেও শরীর থেকে বেশ অনেক রক্ত বের হওয়া কারণে ডাক্তাররা আর তাকে বাঁচাতে পারেননি। অবশেষে রাত ৮টার দিকে বরকত ঢাকা মেডিকেল কলেজের জরুরি বিভাগে শেষ নিঃশ্বাস ত্যাগ করেন।
+১৯৫২ সালে ২১ ফেব্রুয়ারি মোট কতজন শহীদ হন তার সঠিক সংখ্যা জানা যায়নি। কারণ অনেক শহীদের লাশ মর্গ হতে মিলিটারি ও পুলিশ লুকিয়ে ফেলে। বরকতের লাশটিও সেদিন মর্গ থেকে সরিয়ে ফেলেছিল পুলিশ।
+আবুল বরকতের মামা আব্দুল মালেক ছিলে পানি উন্নয়ন বোর্ডের এ্যাসিস্ট্যান্ট একাউন্টস অফিসার। আর তার এক আত্মীয় সরকারের উচ্চপর্যায়ে কর্মরত ছিলেন। তার নাম আবুল কাসেম। তারা দু’জনে তদবির করে পুলিশের কাছ থেকে বরকতের লাশ উদ্ধার করেন।
+২১শে ফেব্রুয়ারী রাত ১০টার দিকে পুলিশের কড়া নজরদারির মধ্যে আজিমপুর পুরাতন গোরস্থানে লাশ দাফন করা হয়। শহীদ আবুল বরকতকে গণপ্রজাতন্ত্রী বাংলাদেশ সরকার ২০০০ সালে মরনোত্তর ২১শে পদক দিয়ে সম্মানিত করেন।"
+                        android:padding="20sp"
+                        android:textSize="20sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

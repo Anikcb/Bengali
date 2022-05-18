@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/history"
+    android:layout_height="match_parent"
+    tools:context=".jobbar">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আব্দুল জব্বার"
+                android:textSize="25sp"
+                android:fontFamily="@font/fazlay"
+                android:textColor="@color/white"
+                android:textAllCaps="true"
+                android:padding="20sp"/>
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    android:padding="10dp"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/jobbar"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/rajon"
+                        android:text="৫২’র ভাষা শহীদ আব্দুল জব্বার এর গ্রামের বাড়ি ময়মনসিংহ জেলার গফরগাঁও উপজেলা রাওনা ইউনিয়নের পাঁচুয়া বর্তমানে জব্বার নগর । ১৯৫২ সালের ২১শে ফেব্রুয়ারির ২/৩ দিন আগে তিনি তার ক্যান্সার আক্রান্ত শাশুড়ীকে চিকিৎসা করাতে জনাব সিরাজুল ইসলামের সহযোগিতায় শাশুড়ীকে ঢাকা মেডিক্যালে ভর্তি করান। তিনি তার আত্নীয়া আয়শা খাতুন এবং পরিচিত আব্দুল হাইয়ের বাসায় ঐ সময় রাত যাপন করে দিনে শাশুড়ীকে সেবা করতে মেডিক্যালে চলে আসতেন।
+
+ঢাকা মেডিক্যালের বাইরে, বিশ্ববিদ্যালয়ের ক্যাম্পাসে যখন বাংলা ভাষাকে রাষ্ট্র ভাষার দাবিতে ছাত্র জনতা সোচ্চার এবং শ্লোগানে শ্লোগানে মুখরিত ঢাকার রাজপথ তখন তিনি মেডিক্যালে ভর্তি হওয়া রোগী তার শাশুড়ীর শয্যা পাশে থাকতেন।গুলিবিদ্ধ হওয়ার অল্পক্ষণ আগে সিরাজুল ইসলামের সাথে শাশুড়ীর রোগের ব্যাপারে কথা বলে তিনি মেডিক্যালের গেইটের বাইরে শাশুড়ীর জন্য কিছু ফল কিনতে গেলেন। এবং ঐ সময় তিনি দেখেন রাষ্ট্র ভাষার দাবি বেশ কিছু ছাত্র-জনতা ব্যানারসহ সমবেত হয়েছে এবং বাংলাকে রাষ্ট্র ভাষার দাবিতে অনবরত শ্লোগান দিয়ে যাচ্ছে।
+আব্দুল জব্বার আর স্থির থাকতে পারেনি । তিনি অসুস্থ শাশুড়ীর জন্য ফল নেওয়ার কথা ভুলে গিয়ে ব্যানার হাতে মিছিলের অগ্রভাগে এসে দাঁড়ান। ঐ সময়ে পুলিশের এলোপাতাড়ি গুলাগুলি শুরু হয়, এতে আব্দুল জব্বার গুলিবিদ্ধ হয়ে পড়েন। পরবর্তীতে তাঁকে গুরুতর আহত অবস্থায় ঢাকা মেডিক্যালে নেওয়া হয় । অতিরিক্ত রক্তক্ষরণে তিনি ২১ ফেব্রুয়ারি রাতে মৃত্যুর কোলে ঢলে পড়েন। শহীদ আব্দুল জব্বারকে গণপ্রজাতন্ত্রী বাংলাদেশ সরকার ২০০০ সালে মরনোত্তর ২১শে পদক দিয়ে সম্মানিত করেন।
+
+ঢাকার আজিমপুর পুরানো কবরস্থানের এই কবরে মহান ভাষা শহীদ আব্দুল জব্বার চিরনিদ্রায় শুয়ে আছেন।
+
+ভাষা শহীদ আব্দুল জব্বারের স্মৃতি রক্ষার্থে দীর্ঘ সময়েও তার গ্রামে কোন কিছুই করা হয়নি। কোন কোন বছর গ্রামের তরুণদের আয়োজনে কলাগাছ পুতে শহীদ মিনার নির্মাণ করে হৃদয়ের টানে ফুল পাতা দিয়ে শ্রদ্ধা নিবেদন করেছে। কয়েক বছর আগে স্থানীয় প্রশাসন ও লোকজনের উদ্যোগে শহীদ আব্দুল জব্বারের গ্রামের বাড়ির পার্শ্বে সুন্দর একটি শহীদ মিনার নির্মাণ করা হয়েছে। যা পরবর্তীতে উপজেলা কেন্দ্রীয় শহীদ মিনার হিসাবে ঘোষণা করা হয়। এর পর থেকেই প্রতি বছর ২১শে ফেব্রুয়ারি উপজেলা কেন্দ্রীয় শহীদ মিনারে পুস্পস্তবক অর্পণ, বইমেলা, আলোচনাসভা ও সাংস্কৃতিক অনুষ্ঠান হয়ে আসছে।
+
+২০০৮সালে ১৯শে ফেব্রুয়ারি বর্ণাঢ্য অনুষ্ঠানের মাধ্যমে তৎকালীন স্থানীয় সরকার উপদেষ্টার আনোয়ার ইকবালের উপস্থিতিতে ভাষা সৈনিক আব্দুল মতিন, ডঃ হালিমা খাতুন ও রওশান আরা বাচ্চু ভাষা শহীদ জব্বার গ্রন্থাগার ও স্মৃতি যাদুঘরটি উদ্বোধন করেন।
+
+তবে দীর্ঘদিনেও স্মৃতির যাদুঘরে ভাষা শহীদ আব্দুল জব্বারের একটি স্মৃতি চিহৃও নেই। অন্যদিকে গফরগাঁওবাসী তার স্মৃতি রক্ষার্থে বর্তমান সরকারের কাছে ‘ভাষা শহীদ আব্দুল জব্বার বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়’ স্থাপনের দাবী জানিয়েছে। গফরগাঁওয়ে গাংচিল এসোসিয়েশন গফরগাঁও এর ব্যানারে ও বিভিন্ন সামাজিক সংঘটন ও নাগরিক সমাজ এর দাবি জানিয়ে মানববন্ধন সহ কর্মসূচীও পালন করে আসছে।
+
+গাংচিল এসোসিয়েশনের সভাপতি রেজাউর রহমান তুহিন বলেন, ভাষা শহীদ আব্দুল জব্বার প্রযুক্তি বিশ্ববিদ্যালয়ের দাবিতে আমরাই প্রথম এই দাবি জানাই এবং প্রতিষ্টা না হওয়া পর্যন্ত আমরা এ দাবি আদায়ে আন্দোলন করে যাবো। গফরগাঁও উপজেলার প্রবীণ সাংবাদিক উপজেলা সিপিবি সভাপতি আজিম উদ্দিন মাস্টার বলেন, ভাষা শহীদ আব্দুল জব্বার বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় প্রতিষ্ঠা পেলে শহীদ জব্বারে স্মৃতি সহজেই রক্ষা করা যাবে এবং ভাষা আন্দোলনের সঠিক ইতিহাস সবাই জানতে পাবে।"
+                        android:padding="20sp"
+                        android:textSize="20sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

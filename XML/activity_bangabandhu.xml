@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/history"
+    android:layout_height="match_parent"
+    tools:context=".bangabandhu">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="বঙ্গবন্ধু শেখ মুজিবুর রহমান"
+                android:textSize="25sp"
+                android:fontFamily="@font/fazlay"
+                android:textColor="@color/white"
+                android:textAllCaps="true"
+                android:padding="20sp"/>
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    android:padding="10dp"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/bangabandhu"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/rajon"
+                        android:text="শেখ মুজিবুর রহমান (১৭ই মার্চ ১৯২০ – ১৫ই আগস্ট ১৯৭৫), সংক্ষিপ্তাকারে শেখ মুজিব বা বঙ্গবন্ধু, ছিলেন বাংলাদেশের প্রথম রাষ্ট্রপতি ও দক্ষিণ এশিয়ার অন্যতম প্রভাবশালী রাজনৈতিক ব্যক্তিত্ব। তিনি ভারত বিভাজন আন্দোলনে সক্রিয় অংশগ্রহণ করেন এবং পরবর্তীকালে পূর্ব পাকিস্তানকে স্বাধীন দেশ হিসেবে প্রতিষ্ঠার সংগ্রামে কেন্দ্রীয়ভাবে নেতৃত্ব প্রদান করেন। শুরুতে তিনি আওয়ামী লীগের সভাপতি, এরপর বাংলাদেশের প্রধানমন্ত্রী এবং পরবর্তীকালে বাংলাদেশের রাষ্ট্রপতির দায়িত্ব পালন করেন। পূর্ব পাকিস্তানের রাজনৈতিক স্বায়ত্তশাসন অর্জনের প্রয়াস এবং পরবর্তীকালে ১৯৭১ খ্রিষ্টাব্দে বাংলাদেশের স্বাধীনতা আন্দোলন ও বাংলাদেশের মুক্তিযুদ্ধের পেছনের কেন্দ্রীয় ব্যক্তিত্ব হিসেবে শেখ মুজিবুর রহমানকে সর্বাধিক গুরুত্বপূর্ণ চরিত্র হিসেবে কৃতিত্বের স্বীকৃতিস্বরূপ তাকে বাংলাদেশের “জাতির জনক” বা “জাতির পিতা” হিসেবে অভিহিত করা হয়।[২] এছাড়াও তাকে প্রাচীন বাঙালি সভ্যতার আধুনিক স্থপতি ও সর্বকালের সর্বশ্রেষ্ঠ বাঙালি হিসেবে বিবেচনা করা হয়।[৩] জনসাধারণের কাছে তিনি “শেখ মুজিব” বা “শেখ সাহেব” নামে এবং তার উপাধি “বঙ্গবন্ধু” হিসেবেই অধিক পরিচিত। তার কন্যা শেখ হাসিনা বাংলাদেশের বর্তমান প্রধানমন্ত্রী।
+
+    ১৯৪৭ খ্রিষ্টাব্দে ভারত বিভাগ পরবর্তী পূর্ব পাকিস্তানের রাজনীতির প্রাথমিক পর্যায়ে শেখ মুজিব ছিলেন তরুণ ছাত্রনেতা। পরবর্তীকালে তিনি আওয়ামী লীগের সভাপতি হন।[৪] সমাজতন্ত্রের পক্ষসমর্থনকারী একজন অধিবক্তা হিসেবে তিনি তৎকালীন পূর্ব পাকিস্তানের জনগোষ্ঠীর প্রতি সকল ধরনের বৈষম্যের বিরুদ্ধে আন্দোলন গড়ে তোলেন। জনগণের স্বাধিকার প্রতিষ্ঠার লক্ষ্যে ছয় দফা স্বায়ত্তশাসন পরিকল্পনা প্রস্তাব করেন, যাকে তৎকালীন পাকিস্তান সরকার একটি বিচ্ছিন্নতাবাদী পরিকল্পনা হিসেবে ঘোষণা করেছিল"
+                        android:textColor="@color/black"
+                        android:padding="20sp"
+                        android:textSize="20sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/history"
+    android:layout_height="match_parent"
+    tools:context=".rofiq">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="রফিক উদ্দিন আহমদ"
+                android:textSize="25sp"
+                android:fontFamily="@font/fazlay"
+                android:textColor="@color/white"
+                android:textAllCaps="true"
+                android:padding="20sp"/>
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    android:padding="10dp"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/rofiq"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/rajon"
+                        android:text="'রাষ্ট্রভাষা বাংলা চাই' দাবিতে ১৯৫২ সালে ভাষা আন্দোলনে যে কয়জন ছাত্র নিজের বুকের তাজা রক্ত রাজপথে বিসর্জন দিয়েছিলেন তাদের মধ্যে জগন্নাথ বিশ্ববিদ্যালয়ের (তৎকালীন জগন্নাথ কলেজ) হিসাববিজ্ঞান বিভাগের ছাত্র রফিক উদ্দিন আহমদ ছিলেন অগ্রগামী। বাংলাকে রাষ্টভাষা করতে তিনি শহিদ হন তিনি।
+
+জানা যায়, ১৯২৬ সালের ৩০ অক্টোবর মানিকগঞ্জের সিঙ্গাইর উপজেলার পারিল গ্রামে (বতর্মানে রফিকনগর) আবদুল লতিফ মিয়া এবং রাফিজা খাতুন দম্পতির ঘরে জন্ম নেন প্রতিবাদী ও সাহসী সন্তান রফিক উদ্দিন। এই দম্পতির পাঁচ ছেলে ও দুই মেয়ের মধ্যে রফিক ছিলেন বড় সন্তান। রফিকের দাদার নাম মো: মকিম।
+
+১৯৪৯ সালে রফিক স্থানীয় বায়রা স্কুলে মাধ্যমিক শেষ করে ভর্তি হন মানিকগঞ্জ দেবেন্দ্র কলেজে। তবে পড়ালেখা শেষ না করে তিনি ঢাকায় এসে পিতার মুদ্রণশিল্প ব্যবসায় যুক্ত হন। ঢাকায় তিনি পুনরায় তৎকালীন জগন্নাথ কলেজে হিসাব বিজ্ঞান বিভাগে ভর্তি হন। এসময় শুরু হয় বাংলাকে রাষ্ট্রভাষা করার দাবিতে আন্দোলন। ১৪৪ ধারা জারি করা হলে তখন ঢাকা শহরের পরিবেশ ছিলো থমথমে। এ আন্দোলনে সক্রিয় হয়ে উঠেন রফিক।
+
+কিন্তু দিন কয়েক পরেই যে রফিকের একই গ্রামের নাসির উদ্দিনের মেয়ে পানু বিবির সাথে বিয়ে। তাই ছেলেকে মিছিলে যেতে মানা করে গ্রামে চলে যান লতিফ মিয়া। ২১ ফেব্রুয়ারি বিয়ের শাড়ি-গহনা নিয়ে সন্ধ্যায় বাড়ি ফেরার কথা ছিল রফিকের।
+
+কিন্তু বাংলা ভাষাকে রাষ্ট্রভাষা করার দাবিতে ১৯৫২-র ২১শে ফেব্রুয়ারির ওই দিনেই জগন্নাথ থেকে ঢাকা মেডিকেল কলেজে আন্দোলন মিছিলে যান তিনি। তাদের মিছিল ১৪৪ ধারা ভঙ্গ করলে ঢাকা মেডিকেল কলেজের হোস্টেল প্রাঙ্গনে গুলি চালায় পুলিশ।
+
+এতে রফিক মাথায় গুলিবিদ্ধ হন এবং ঘটনাস্থলেই তার মৃত্যু হয়। মেডিকেল হোস্টেলের ১৭ নম্বর রুমের পূর্বদিকে তার লাশ পড়ে ছিল। ছয় সাত জন আন্দোলনকর্মী তার লাশ এনাটমি হলের পেছনের বারান্দায় এনে রাখেন। তাদের মাঝে একজন রফিকের গুলিতে ছিটকে পড়া মগজ হাতে করে নিয়ে যান বলে জানা যায়।
+
+ভাষার জন্য গুলিবিদ্ধ হয়ে রফিক প্রথম শহীদ হন বলে ওইদিন ঢাকা মেডিকেল কলেজ হাসপাতালের জরুরী বিভাগে কর্মরত মুহাম্মদ মাহফুজ হোসেন এক সাক্ষাৎকারে জানান। তিনি সেই সাক্ষাৎকারে বলেন, 'একুশে ফেব্রুয়ারি দুপুরে গুলিবিদ্ধ তিনজনকে হাসপাতালে গ্রহণ করি আমি।
+
+কপালে গুলিবিদ্ধ রফিককে দেখেই মৃত ঘোষণা করা হয়। আর উরুতে গুলিবিদ্ধ বরকত মারা যান রাতে, আমার চোখের সামনেই।' পরে রাত ৩টায় সামরিক বাহিনীর প্রহরায় ঢাকার আজিমপুর কবরস্থানে তাকে সমাহিত করা হয়।
+
+শহীদ রফিকের স্মৃতি রক্ষার্থে ২০১৪ সালের ২০ ফেব্রুয়ারি জগন্নাথ বিশ্ববিদ্যালয়ের পুরাতন বিজনেস স্টাডিজ ভবনের নাম পরিবর্তন করে 'ভাষা শহীদ রফিক ভবন' নামকরণের প্রস্তাব করা হলে প্রস্তাবটি সর্বসম্মতিক্রমে পাস হয়। বর্তমানে এ ভবনে বাংলা ও ইতিহাস বিভাগসহ নিচের তালায় মেডিকেল সেন্টারের কাজ চলছে। এছাড়া বিশ্ববিদ্যালয়ে তার স্মৃতি রক্ষার্থে নেই কোন ভাস্কর্য বা স্মৃতি স্তম্ভ।
+
+একাত্তরের বীর মুক্তিযোদ্ধা ও রাষ্ট্রবিজ্ঞান বিভাগের চেয়ারম্যান অধ্যাপক ড. আনোয়ারা বেগম বলেন, ভাষা আন্দোলন আমাদের মুক্তিযুদ্ধের মূল ভিত্তি ও অনুপ্রেরণার জায়গা ছিল। শহীদ রফিকের স্মৃতি রক্ষার্থে বিশ্ববিদ্যালয়ে একটি স্মৃতি স্তম্ভ বা ভাস্কর্য বানালে সকলের কাছে ইতিহাস রক্ষিত হবে।
+
+উল্লেখ্য, ২০০০ সালের ফেব্রুয়ারি মাসে শহীদ রফিক উদ্দিনকে মরণোত্তর একুশে পদকে ভূষিত করা হয়।"
+                        android:padding="20sp"
+                        android:textSize="20sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
